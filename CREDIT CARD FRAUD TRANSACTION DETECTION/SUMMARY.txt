@@ -1,0 +1,5 @@
+Objective: The main objective of this work is to predict whether a credit card transaction is fraudulent or not.
+• Techniques: Data distribution is understood using different univariate and bivariate distribution analysis. Different
+Machine learning algorithms such as logistic regression, decision tree, support vector machine etc tested on this
+dataset.
+• Results: The final model is able to detect majority of fraudulent transactions in the unseen test set. Oversampling the under-represented class using synthetic minority oversampling technique (SMOTE) helped in achieving higher recall. 
